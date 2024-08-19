@@ -15,13 +15,13 @@ getgenv().RngEvent = {
         ["Fire Dice"] = {Craft = false, Use = true, Only_Use_If_Not_Active = true, Only_Use_If_Rolls_Ends_In = nil},
         ["Lucky Dice"] = {Craft = false, Use = true, Only_Use_If_Not_Active = true, Only_Use_If_Rolls_Ends_In = nil},
         ["Lucky Dice II"] = {Craft = true, Use = true, Only_Use_If_Not_Active = true, Only_Use_If_Rolls_Ends_In = nil},
-        ["Lucky Dice III"] = {Craft = true, Use = false, Only_Use_If_Not_Active = false, Only_Use_If_Rolls_Ends_In = nil},
+        ["Lucky Dice III"] = {Craft = false, Use = false, Only_Use_If_Not_Active = false, Only_Use_If_Rolls_Ends_In = nil},
         ["Mega Lucky Dice"] = {Craft = true, Use = false, Only_Use_If_Not_Active = false, Only_Use_If_Rolls_Ends_In = nil},
         ["Mega Lucky Dice II"] = {Craft = true, Use = true, Only_Use_If_Not_Active = true, Only_Use_If_Rolls_Ends_In = 10},
     },
 
-    Webhook_Url = "https://discord.com/api/webhooks/1272296842788343808/Z_K1KP98m8H2PQobdHe6m6dq18JgY3p9pCVYu99BIFZoRRw_FsWwLvOf3q8kbbVgtBOf",
-    Discord_UserID = "508625690195787776",
+    Webhook_Url = "https://discord.com/api/webhooks/1245822896694231152/NO-es5vVwsVnHvVAOgEMkWiZXHG8rsNN_ZeI5IRtTwpelXkYq55-rEXygguMLa5smdHp",
+    Discord_UserID = "683191935623495686",
     Huge_Mail_User = "",
     Huge_Mail_Enabled = false, -- Warning: Using auto has a 1% Chance of donating to KiTTYWARE Devs
 
